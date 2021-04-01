@@ -13,6 +13,7 @@
 		CEE255672613BAB200178438 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEE255652613BAB200178438 /* Main.storyboard */; };
 		CEE255692613BAB700178438 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEE255682613BAB700178438 /* Assets.xcassets */; };
 		CEE2556C2613BAB700178438 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEE2556A2613BAB700178438 /* LaunchScreen.storyboard */; };
+		CEE2557526165EA000178438 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEE2557426165EA000178438 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CEE255682613BAB700178438 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEE2556B2613BAB700178438 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEE2556D2613BAB700178438 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEE2557426165EA000178438 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		CEE255532613BAB200178438 = {
 			isa = PBXGroup;
 			children = (
+				CEE2557426165EA000178438 /* Launch Screen.storyboard */,
 				CEE2555E2613BAB200178438 /* Hackwich #9 */,
 				CEE2555D2613BAB200178438 /* Products */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				CEE2556C2613BAB700178438 /* LaunchScreen.storyboard in Resources */,
 				CEE255692613BAB700178438 /* Assets.xcassets in Resources */,
+				CEE2557526165EA000178438 /* Launch Screen.storyboard in Resources */,
 				CEE255672613BAB200178438 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
